@@ -3,3 +3,10 @@
 ################################################################################
 
 /API/bin/Debug/netcoreapp3.1
+/API/obj/Debug/netcoreapp3.1
+/Application/bin/Debug
+/Application/obj/Debug
+/Domain/bin/Debug
+/Domain/obj/Debug
+/Persistence/bin/Debug
+/Persistence/obj/Debug
