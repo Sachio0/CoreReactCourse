@@ -1288,27 +1288,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Stacjonarny\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\snowinski\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stacjonarny\\source\\repos\\CoreReactCourse\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\CoreAndReact\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Users\\Stacjonarny\\source\\repos\\CoreReactCourse\\Persistence\\Persistence.csproj",
-      "packagesPath": "C:\\Users\\Stacjonarny\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stacjonarny\\source\\repos\\CoreReactCourse\\Persistence\\obj\\",
+      "projectPath": "C:\\CoreAndReact\\Persistence\\Persistence.csproj",
+      "packagesPath": "C:\\Users\\snowinski\\.nuget\\packages\\",
+      "outputPath": "C:\\CoreAndReact\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Stacjonarny\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\snowinski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -1320,8 +1317,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Users\\Stacjonarny\\source\\repos\\CoreReactCourse\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Stacjonarny\\source\\repos\\CoreReactCourse\\Domain\\Domain.csproj"
+            "C:\\CoreAndReact\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\CoreAndReact\\Domain\\Domain.csproj"
             }
           }
         }
@@ -1359,7 +1356,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

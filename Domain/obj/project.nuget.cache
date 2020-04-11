@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yd4FA4zjS8pGw2WNv61tl4TSO+8fhNIgLQ2MDSmtYKBHU+l+wqKV94pdxgFzpc/4O+PosHmDvxYzBYWBaDhH/w==",
+  "dgSpecHash": "VB8kL6KUWns+lVU0W7ys9L0LxDCuPWEMW2+Zkv5N3Purs3uQ2tU3c7TOLKspsiz1xMaecMdKz72n1WvnJTef7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stacjonarny\\source\\repos\\CoreReactCourse\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\CoreAndReact\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
